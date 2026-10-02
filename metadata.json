@@ -1,0 +1,6 @@
+{
+  "name": "TaskPulse - Android Jetpack Compose To-Do App",
+  "description": "Production-grade Android To-Do List application in Kotlin featuring Jetpack Compose, Room Persistence, MVVM StateFlow, and Local Notification Reminders with interactive simulator and project exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
